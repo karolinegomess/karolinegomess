@@ -1,4 +1,12 @@
-## Hi there 👋
+seja bem vindo(a) ao meu perfil!💙
+meu nome é Karoline Gomes, e sou estudante do alura!
+
+estou me desenvolvendo na linguagem JavaScript.
+ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ESPERO QUE GOSTE!
+
+
+
 
 <!--
 **karolinegomess/karolinegomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
